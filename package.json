@@ -1,0 +1,26 @@
+{
+  "name": "webpack-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafalPijet/Webpack-basics.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "LopezPL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafalPijet/Webpack-basics/issues"
+  },
+  "homepage": "https://github.com/RafalPijet/Webpack-basics#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
